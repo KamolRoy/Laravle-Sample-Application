@@ -1,0 +1,21 @@
+// @import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+
+#admin-page{
+  padding-top:0px;
+}
+
+#nested-comment{
+  margin:10px;
+}
+
+div#nested-comment {
+  margin: 20px 0px;
+}
+
+.comment-reply{
+  display: none;
+}
+
+.comment-reply textarea {
+  margin-top: 10px;
+}
